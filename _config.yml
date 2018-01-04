@@ -16,7 +16,7 @@ theme_settings:
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
- 
+
   # Icons
   rss: false
   email_address: "jhower91@gmail.com"
@@ -29,7 +29,7 @@ theme_settings:
   google_plus:
   instagram:
   linkedin:  "https://www.linkedin.com/in/jordan-hower-847a23a4/"
-  pinterest:
+  pinterest: "jhower"
   reddit:
   soundcloud:
   stack_exchange:  # Full URL
