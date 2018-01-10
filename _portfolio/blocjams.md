@@ -1,10 +1,11 @@
 ---
 layout: post
-title:
-feature-img: "Desktop/blocjams1.png"
+title: "Bloc Jams"
+feature-img: "img/blur_bg_2.jpg"
 thumbnail-path: "https://d13yacurqjgara.cloudfront.net/users/3217/screenshots/2030966/blocjams_1x.png"
 short-description: BlocJams for iOS is awesome!
-
+img:
+  background: blur_bg_2.jpg
 ---
 
 ![alt text](https://cdn.dribbble.com/users/70542/screenshots/1474463/blocjams.png "Logo")
@@ -39,4 +40,4 @@ Bloc Jams is an easy to navigate, visually stunning, live streaming music websit
 ---
 
 ## <center>Conclusion<br>
-This project taught me to simplify code as much as possible. When you get into a project such as this its easy to blow up the amount of code needed to create an awesome website! Also it is easy to overcomplicate things so I had to make sure to make things simplified and functional.
+This project taught me to simplify code as much as possible. When you get into a project such as this its easy to blow up the amount of code needed to create an awesome website! Also it is easy to overcomplicate things so I had to make sure to make things simplified but functional.
