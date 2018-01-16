@@ -71,4 +71,10 @@ sass:
   sass_dir: _sass
   style: :compressed
 
+<<<<<<< HEAD
 gems:
+=======
+gems: [jekyll-paginate]
+
+theme: jekyll-theme-midnight
+>>>>>>> 2cb35d9e83dbbf3e4c7a8e91ef528de9cea9c618
