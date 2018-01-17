@@ -57,7 +57,7 @@ theme_settings:
   google_fonts: "Source+Sans+Pro:400,700,700italic,400italic"
 
 # PAGINATION
-paginate: 5
+paginate: 7
 paginate_path: "blog/page:num"
 
 # COLLECTIONS
@@ -71,4 +71,4 @@ sass:
   sass_dir: _sass
   style: :compressed
 
-gems:
+plugins:  [jekyll-paginate]
