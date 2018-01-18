@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "http://jhower/Jordan-Hower-Portfolio.github.io" # the base hostname & protocol for your site
+url: "http://jhower.github.io" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
@@ -70,5 +70,9 @@ markdown: kramdown
 sass:
   sass_dir: _sass
   style: :compressed
+
+gems: [jekyll-paginate]
+
+theme: jekyll-theme-midnight
 
 plugins:  [jekyll-paginate]
