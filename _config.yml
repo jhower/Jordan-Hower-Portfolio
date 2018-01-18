@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "http://jhower/Jordan-Hower-Portfolio.github.io" # the base hostname & protocol for your site
+url: "http://jhower.github.io" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
